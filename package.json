@@ -1,5 +1,5 @@
 {
-  "name": "ville-template",
+  "name": "villejs-template",
   "version": "1.0.0",
   "description": "Template for starting new projects",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jnsmalm/ville-template.git"
+    "url": "git+https://github.com/jnsmalm/villejs-template.git"
   },
   "author": "Jens Malmborg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jnsmalm/ville-template/issues"
+    "url": "https://github.com/jnsmalm/villejs-template/issues"
   },
-  "homepage": "https://github.com/jnsmalm/ville-template#readme",
+  "homepage": "https://github.com/jnsmalm/villejs-template#readme",
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "browser-sync-webpack-plugin": "^2.2.2",
