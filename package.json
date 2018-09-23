@@ -1,0 +1,24 @@
+{
+  "name": "ville-template",
+  "version": "1.0.0",
+  "description": "Template for starting new projects",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnsmalm/ville-template.git"
+  },
+  "author": "Jens Malmborg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnsmalm/ville-template/issues"
+  },
+  "homepage": "https://github.com/jnsmalm/ville-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  }
+}
