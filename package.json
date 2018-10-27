@@ -1,20 +1,20 @@
 {
-  "name": "villejs-template",
+  "name": "villejs-starter-kit",
   "version": "1.0.0",
-  "description": "Template for starting new projects",
+  "description": "Starter kit for new projects using Ville.js",
   "scripts": {
     "start": "webpack --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jnsmalm/villejs-template.git"
+    "url": "git+https://github.com/jnsmalm/villejs-starter-kit.git"
   },
   "author": "Jens Malmborg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jnsmalm/villejs-template/issues"
+    "url": "https://github.com/jnsmalm/villejs-starter-kit/issues"
   },
-  "homepage": "https://github.com/jnsmalm/villejs-template#readme",
+  "homepage": "https://github.com/jnsmalm/villejs-starter-kit#readme",
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "browser-sync-webpack-plugin": "^2.2.2",
