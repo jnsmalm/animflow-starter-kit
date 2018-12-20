@@ -1,2 +1,2 @@
-# ville-template
-Template for starting new projects
+# Ville.js Starter Kit
+Starter Kit for new projects using Ville.js
