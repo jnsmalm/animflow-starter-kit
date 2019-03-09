@@ -3,6 +3,7 @@ const BrowserSyncPlugin = require("browser-sync-webpack-plugin")
 
 module.exports = {
   entry: "./src/index.js",
+  mode: "development",
   output: {
     path: path.resolve(__dirname, "public"),
     filename: "game.js"
