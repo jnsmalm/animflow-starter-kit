@@ -14,5 +14,17 @@ module.exports = {
       port: 3000,
       server: { baseDir: ["public"] }
     })
-  ]
+  ],
+  module: {
+    rules: [
+      {
+        test: /\.tsx?$/,
+        use: "ts-loader",
+        exclude: /node_modules/
+      }
+    ]
+  },
+  resolve: {
+    extensions: [".ts", ".js"]
+  }
 }
