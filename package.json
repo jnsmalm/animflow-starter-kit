@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/jnsmalm/villejs-starter-kit#readme",
   "devDependencies": {
+    "animflow": "git+https://git@github.com/jnsmalm/animflow.git",
     "browser-sync": "^2.24.7",
     "browser-sync-webpack-plugin": "^2.2.2",
     "ts-loader": "^5.3.3",
