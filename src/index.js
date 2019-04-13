@@ -1,4 +1,4 @@
-const { game, sprite, key, rotate } = VILLE
+const { game, sprite, key, rotate } = ANIMFLOW
 
 game.init()
 
