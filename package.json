@@ -1,20 +1,20 @@
 {
-  "name": "villejs-starter-kit",
+  "name": "animflow-starter-kit",
   "version": "1.0.0",
-  "description": "Starter Kit for new projects using Ville.js",
+  "description": "Starter Kit for new projects using Animflow",
   "scripts": {
     "start": "webpack --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jnsmalm/villejs-starter-kit.git"
+    "url": "git+https://github.com/jnsmalm/animflow-starter-kit.git"
   },
   "author": "Jens Malmborg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jnsmalm/villejs-starter-kit/issues"
+    "url": "https://github.com/jnsmalm/animflow-starter-kit/issues"
   },
-  "homepage": "https://github.com/jnsmalm/villejs-starter-kit#readme",
+  "homepage": "https://github.com/jnsmalm/animflow-starter-kit#readme",
   "devDependencies": {
     "animflow": "git+https://git@github.com/jnsmalm/animflow.git",
     "browser-sync": "^2.24.7",

@@ -1,4 +1,4 @@
-const { game, sprite, key, rotate } = ANIMFLOW
+import { game, sprite, key, rotate } from "animflow"
 
 game.init()
 
