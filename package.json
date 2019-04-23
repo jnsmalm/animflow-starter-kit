@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/jnsmalm/animflow-starter-kit#readme",
   "devDependencies": {
-    "animflow": "git+https://git@github.com/jnsmalm/animflow.git",
+    "animflow": "git+https://git@github.com/jnsmalm/animflow.git#v0.8.0",
     "browser-sync": "^2.24.7",
     "browser-sync-webpack-plugin": "^2.2.2",
     "ts-loader": "^5.3.3",
